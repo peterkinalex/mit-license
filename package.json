@@ -15,7 +15,7 @@
   },
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "nconf": "^0.8.4",
+    "nconf": "^0.10.0",
     "request": "^2.72.0"
   }
 }
